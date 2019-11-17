@@ -1,0 +1,13 @@
+{
+  "name": "mdx-deck-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
+  "license": "MIT",
+  "dependencies": {
+    "mdx-deck": "^3.0.13"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  }
+}
